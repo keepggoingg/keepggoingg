@@ -57,28 +57,6 @@
 - **ROSUS 2024**, Maribor
 - **DSI 2024**, Portorož
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=keepggoingg&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keepggoingg/keepggoingg/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/keepggoingg/keepggoingg/output/github-snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
 </p>
