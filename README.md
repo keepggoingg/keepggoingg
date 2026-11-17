@@ -65,7 +65,7 @@
 </p>
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
-  <img src="./profile-summary-card-output/tokyonight/5-commits.svg" height="180" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" />
 </p>
 
 <p align="center">
