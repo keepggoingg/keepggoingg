@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Flutter+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Python;From+BLE+sensors+to+Kubernetes;Mobile%2C+backend%2C+DevOps+and+a+bit+of+ML;Based+in+Ljubljana%2C+Slovenia+%F0%9F%87%B8%F0%9F%87%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Flutter+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Python;From+BLE+sensors+to+Kubernetes;Mobile%2C+backend%2C+DevOps+and+a+bit+of+ML;Shipping+with+AI+agents+%F0%9F%A4%96;Based+in+Ljubljana%2C+Slovenia+%F0%9F%87%B8%F0%9F%87%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
 - 📱 I build Flutter apps together with the Go / Java services behind them
 - ⚙️ I like the whole path to production: Docker, Kubernetes, Jenkins, GitLab CI, monitoring
 - 🧠 Worked on ML too: document extraction with OCR + LLMs, image classification with TensorFlow
+- 🤖 Agentic development: I ship features with Claude Code, write custom skills and subagent workflows, and build MCP servers that give agents access to real systems
 - 🎓 BSc in Computer Science, University of Maribor
 - 🐧 Linux and Neovim user: tmux, kitty, zsh, NixOS / Arch in the past
 
@@ -28,6 +29,15 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,go,java,spring,python,react,js,ts,cs&perline=10" alt="Languages and frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,jenkins,gitlab,prometheus,grafana,tensorflow,pytorch,linux&perline=10" alt="Infra and tools" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,nginx,ansible,unity,nix,neovim,bash&perline=10" alt="More tools" />
+</p>
+
+**Agentic development**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP_servers-1f2937?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Skills_%26_subagents-2c5364?style=for-the-badge&logo=anthropic&logoColor=white" alt="Skills and subagents" />
+  <img src="https://img.shields.io/badge/LLM_pipelines-203a43?style=for-the-badge&logo=python&logoColor=white" alt="LLM pipelines" />
 </p>
 
 ## 🌍 Open source
