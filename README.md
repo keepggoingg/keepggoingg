@@ -51,6 +51,47 @@
 | [eearly-mobile-module-keycloak](https://github.com/e-early/eearly-mobile-module-keycloak) · [eearly-admin-module-keycloak](https://github.com/e-early/eearly-admin-module-keycloak) | Keycloak setup for auth | Keycloak, Docker |
 | [eearly-ehr-module-service](https://github.com/e-early/eearly-ehr-module-service) | EHR integration module | Docker, Shell |
 
+## 📂 Portfolio
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/portfolio/01_ai_document_extraction.png" alt="AI Document Data Extraction" /><br/>
+      <b>AI Document Data Extraction</b><br/>
+      <sub>OCR + ML + LLM pipeline → structured data</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/portfolio/02_document_labeling_app.png" alt="Document Labeling & Review App" /><br/>
+      <b>Document Labeling & Review App</b><br/>
+      <sub>React + Python app for verifying AI output</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/portfolio/03_biometric_sensor_app.png" alt="Biometric Sensor Mobile App" /><br/>
+      <b>Biometric Sensor Mobile App</b><br/>
+      <sub>Flutter + Java/gRPC healthcare app (eEarly)</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/portfolio/04_vehicle_handover_platform.png" alt="Vehicle Handover Platform" /><br/>
+      <b>Vehicle Handover Platform</b><br/>
+      <sub>Flutter + Go, gRPC, MinIO, Prometheus</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/portfolio/05_car_leasing_platform.png" alt="Car Leasing Platform" /><br/>
+      <b>Car Leasing Platform</b><br/>
+      <sub>React + Flutter + Spring Boot</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/portfolio/06_hr_recruiting_platform.png" alt="HR Recruiting Platform" /><br/>
+      <b>HR Recruiting Platform</b><br/>
+      <sub>JavaScript + Java, Docker, Jenkins</sub>
+    </td>
+  </tr>
+</table>
+
 ## 🧭 What I've worked on
 
 | When | Project | Stack |
